@@ -74,6 +74,10 @@ body {
     margin: 20px 0 40px;
 }
 
+.home-content p span {
+    color: red;
+}
+
 .home-content .btn-box {
     display: flex;
     justify-content: space-between;
